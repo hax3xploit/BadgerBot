@@ -2,8 +2,12 @@
 
 ## 🚀 Overview
 
-**Badger** is a fully-automated, multi-strategy trading bot designed to execute binary/currency trades on **Quotex** based on signals from Telegram channels, built-in strategies, or both.  
-It combines technical analysis, dynamic risk management, Martingale logic, and adaptive time control for reliable trading decisions.
+**BadgerBot** is a fully-automated, multi-strategy trading bot for [Quotex](https://quotex.com).
+It supports binary and currency trading with automation powered by:
+
+- Telegram trading signals
+- Built-in strategy engines
+- Combined hybrid strategies
 
 ---
 
