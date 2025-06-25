@@ -193,6 +193,8 @@ Once running:
 
 **Note:** Not planning to open-source this for now, but feel free to [contact me](mailto:abdullah_b2k@outlook.com) if you're interested.
 
+---
+
 ## 👤 Author
 
 Developed by [**Abdullah Khawaja**](https://abdullahkhawaja.com)
