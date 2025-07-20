@@ -189,6 +189,8 @@ Once running:
 ## 📷 Screenshots
 ![Homepage UI](Images/homepage.png)
 
+<img width="1708" height="1961" alt="image" src="https://github.com/user-attachments/assets/74901ff1-21a4-4d90-90cc-dd45d66d2dc3" />
+
 ![Settings UI](Images/0.png)
 
 ![Mobile View](Images/1.png)
